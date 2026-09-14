@@ -8,7 +8,7 @@ and display are supported.
 [![Tests](https://github.com/parripollo/ckanext-scheming/actions/workflows/test.yml/badge.svg)](https://github.com/parripollo/ckanext-scheming/actions)
 
 > **About this fork.** This is [ckan/ckanext-scheming](https://github.com/ckan/ckanext-scheming)
-> tested against the [PostgreSQL-only proposal for CKAN](https://ckanito.cluster311.com)
+> tested against the [PostgreSQL-only proposal for CKAN](https://ckan.cbadatos.com.ar)
 > (no Solr, no Redis). The CI installs that CKAN branch from source; the
 > extension code is unchanged unless noted in the commit history.
 
